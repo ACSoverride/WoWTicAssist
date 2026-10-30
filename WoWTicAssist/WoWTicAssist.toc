@@ -1,1 +1,7 @@
-WoWTicAssist.lua
+## Interface: 11508
+## Title: WoWTicAssist
+## Notes: Classic Era accessibility helper: hold Alt to switch to safe page 6.
+## Author: Matti
+## Version: 0.1.0
+
+WoWTicAssit.lua
