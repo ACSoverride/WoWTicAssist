@@ -1,4 +1,6 @@
 # WoWTicAssist
+
+## License
 Copyright
 
 GlovePIE is Copyright 2011 by Carl Kenner, except for the scripts by other authors. By using this software you agree to obey the following license conditions:
