@@ -5,7 +5,7 @@ Copyright
 
 MattiPIE is Copyright 2026 by Matti Shapiro based on GlovePIE by Carl Kenner 2011. By using this software you agree to obey the following license conditions:
 
-* You may not use this software directly or indirectly for any military purpose. This includes, but is not limited to, training, research and development, controlling military hardware, directing military personnel, or troop entertainment. You may not use this software anywhere on a military base or vessel. This applies to all versions of PIE. You may also not use it for playing “games” produced by the military to recruit players as real soldiers, including America’s Army. Sorry.
+* You may not use this software directly or indirectly for any military purpose. This includes, but is not limited to, training, research and development, controlling military hardware, directing military personnel, or troop entertainment. You may not use this software anywhere on a military base or vessel. This applies to all versions of WoWTicAsssit. You may also not use it for playing “games” produced by the military to recruit players as real soldiers, including America’s Army. Sorry.
 
 * You may not export this software to Israel, or use it in Israel (including the occupied territories), until Israel has ended its occupation of the West Bank, Gaza Strip, Lebanon, Syria, and anywhere else it may occupy, or until Israel abolishes apartheid (granting all Jews and non-Jews in its territories equal rights).
 
