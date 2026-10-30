@@ -12,3 +12,6 @@ GlovePIE is Copyright 2011 by Carl Kenner, except for the scripts by other autho
 * You may not use this software to cheat at online or multiplayer games. What constitutes cheating depends on the game and the server. Just using a different input device shouldn't be considered cheating, but complex scripted actions to make things easier may be considered cheating. Don't get GlovePIE banned, or you will hurt everyone who wants to play with a VR glove. But feel free to cheat at single player!
 
 * NaturalPoint, or anyone or anything acting on their behalf, may not decompile, disassemble, view in a hex editor, reverse engineer, or study in any way any part of this software
+
+## AI DISCLAIMER
+In it's current state this was a rough outline done almost entirely by Github Copilot's student allotment. This is because I needed something that I can immediately use for WoW: Forever launch. Further work on this project will involve going over it all with a fine tooth comb and learning the ins and outs of WoW's API and LUA.
